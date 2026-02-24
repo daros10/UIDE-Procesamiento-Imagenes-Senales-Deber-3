@@ -1,15 +1,11 @@
-## **Maestria en Inteligencia Artificial Aplicada**
-
-## **Procesamiento de Imagen y Señales**
+**<h2 align="center">Maestria en Inteligencia Artificial Aplicada</h2>**
+**<h2 align="center">Procesamiento de Imagen y Señales</h2>**
 
 ---
-
-- Descarga las dependecias
-
-``pip3 install -r requirements.txt``
+> Descarga las dependecias 
 
 ``pip install -r requirements.txt``
 
-### Nota
-
-- Ejecuta el notebook en orden secuencial para que las funciones declaradas en el primer bloque puedan ser usadas en las otras secciones.
+> [!NOTE]  
+> El informe está desarrollado en el notebook alojado en la raíz del proyecto.
+---
